@@ -10,4 +10,4 @@ Foto Real DSNG
 ## DATOS DE CONTACTO:
 
 ### Correo Electrònico: carmocace@gmail.com
-### Telèfono: 629 38 10 34
+### Teléfono: 629 38 10 34
