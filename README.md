@@ -13,4 +13,4 @@ Foto Real DSNG
 ### Teléfono: 629 38 10 34
 
 ### Currículum Vitae
--[Currículum Vitae José Manuel Carmona Cáceres](https://github.com/carmocace/carmocace/blob/main/Curriculum%20Jose%20M%20Carmona%202024.pdf)
+-[Currículum José M. Carmona](https://github.com/carmocace/carmocace/blob/main/Curriculum%20Jose%20M%20Carmona%202024.pdf)
