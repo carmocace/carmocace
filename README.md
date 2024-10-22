@@ -12,4 +12,4 @@ Foto Real DSNG
 ### Correo Electrónico: carmocace@gmail.com
 ### Teléfono: 629 38 10 34
 
-[Curriculum Vitae](Curriculum Jose M Carmona 2024.pdf)
+-[Curriculum Vitae](Curriculum Jose M Carmona 2024.pdf)
