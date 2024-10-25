@@ -19,8 +19,12 @@ Foto Real DSNG
 
 ## Formación Reglada.
 
-| Centro | Localización | Rama | Especialidad | Perriodo |
-|:-------:|:------------:|:--------:|:-------:|:--------:|
+| Centro | Localización | Titulación | Periodo |
+|:-------:|:------------:|:-------:|:--------:|
+|I.F.P. Nestor Almendros| Tomares | Técnico Auxilar en Imagen y Sonido| 1991 - 1993 |
+|I.F.P. Nestor Almendros| Tomares |Técnico Especialista en Operacion de R.T.V.| 1991 - 1993 |
+|I.E.S. Rodrigo Caro| Coria del Río | Administración de Sistemas Informáticos en Red | 2022 - Actualidad |
+> **En la actuailidad, cursando 2º de A.S.I.R.**
 
 ## DATOS DE CONTACTO:
 
