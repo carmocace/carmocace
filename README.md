@@ -7,6 +7,13 @@
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/rmnwFfsj/unidad-dsng-mdst-mo02sd.jpg" alt="unidad-dsng-mdst-mo02sd"/></a>  
 Foto Real DSNG
 </br>
+
+|    Empresa      |   Localización  |   Periodo       | Puesto Trabajo    | Modalidad |
+|:---------------:|:---------------:|:---------------:|:-----------------:|:---------:|
+|    META-10      |   Sevilla       |   1999 - 2000   | Aux. Enlaces      | Empleado  |
+|    T.S.A.       |   Madrid        |   2000 - 2010   | Operador Satelite | Empleado  |
+|    A.D.M.       |   Sevilla       |   2010 - 2011   | Jefe Tecnico Operaciones | Empleado|
+
 ## DATOS DE CONTACTO:
 
 ### Correo Electrónico: carmocace@gmail.com
