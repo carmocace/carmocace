@@ -25,7 +25,7 @@ Foto Real DSNG
 |I.F.P. Nestor Almendros| Tomares |Técnico Especialista en Operacion de R.T.V.| 1991 - 1993 |
 |I.E.S. Rodrigo Caro| Coria del Río | Administración de Sistemas Informáticos en Red | 2022 - Actualidad |
 
-> *En la actuailidad, cursando 2º de A.S.I.R.*
+> *En la actualidad, cursando 2º de A.S.I.R.*
 
 ## Formación No Reglada
 
