@@ -24,7 +24,15 @@ Foto Real DSNG
 |I.F.P. Nestor Almendros| Tomares | Técnico Auxilar en Imagen y Sonido| 1991 - 1993 |
 |I.F.P. Nestor Almendros| Tomares |Técnico Especialista en Operacion de R.T.V.| 1991 - 1993 |
 |I.E.S. Rodrigo Caro| Coria del Río | Administración de Sistemas Informáticos en Red | 2022 - Actualidad |
+
 > **En la actuailidad, cursando 2º de A.S.I.R.**
+
+## Formación No Reglada
+
+- Curso de Operador de Camara (IFES - UGT)
+- Curso de Rodaje y Montaje de Dramáticos (Mariano Catalán)
+- Curso de Capacitación del sistema Papillón para trabajar en Torres de Retevisión (Retevisión)
+- Curso de Técnico de Sistemas Microinformáticos en red (Area Desarrollo Local del Ayuntamiento de Bormujos)
 
 ## DATOS DE CONTACTO:
 
