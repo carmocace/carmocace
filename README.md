@@ -20,7 +20,7 @@ Foto Real DSNG
 ## Formación Reglada.
 
 | Centro | Localización | Rama | Especialidad | Perriodo |
-|;-------:|:------------:|:--------:|:-------:|:--------:|
+|:-------:|:------------:|:--------:|:-------:|:--------:|
 
 ## DATOS DE CONTACTO:
 
