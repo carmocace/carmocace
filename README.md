@@ -1,7 +1,7 @@
 # CURRICULUM DE JOSE MANUEL CARMONA CACERES
 
 # ![Hola](https://st3.depositphotos.com/12039412/16701/i/450/depositphotos_167016454-stock-photo-laptop.jpg) 
-# Hola, mi nombre es Jose Manuel Carmona 👋
+# Hola, mi nombre es Jose Manuel Carmona Cáceres.
 
 ## Soy técnico especialista en operaciones de Radio y Televisión, pero mi carrera profesional se desarrolló como operador de telecomunicaciones realizando transmisiones profesionales de Televisión a traves de satelite (DSNG).
 ## META10 en Sevilla, Telefónica Servicios Audiovisuales (TSA) en Madrid, Andalucía Digital Multimedia (ADM) en Sevilla, todas como empleado, y Telefónica Broadcast Service (TBS) y LAVIGNA, como autónomo, son las empresas en las que se puede resumir mi experiencia profesional tras 20 años de trayectoria.
