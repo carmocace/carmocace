@@ -2,7 +2,7 @@
 # CURRICULUM DE JOSE MANUEL CARMONA CACERES
 ---
 ### <p align="center">
-  <img src="/IMAGENES/PC.jpg" alt="Descripción de la imagen" width="600"/>
+  <img src="/IMAGENES/PC.jpg" alt="Descripción de la imagen" width="500"/>
 </p> 
 
 ---
@@ -14,7 +14,7 @@
 ### En la actualidad me encuentro en situación de desempleo, cursando estudios de Administración de sistemas informáticos en red, con el objetivo de reciclarme para poder retomar el desempeño en el que mas a gusto me siento y para abrirme nuevas puertas en caso de que no sea posible retomar dicha actividad.
 ---
 ### <p align="center">
-  <img src="/IMAGENES/DSNG.jpg" alt="Descripción de la imagen" width="600"/>
+  <img src="/IMAGENES/DSNG.jpg" alt="Descripción de la imagen" width="500"/>
 </p>  
 
 <br>
