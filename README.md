@@ -1,12 +1,17 @@
 # CURRICULUM DE JOSE MANUEL CARMONA CACERES
 
-# ![Hola](https://st3.depositphotos.com/12039412/16701/i/450/depositphotos_167016454-stock-photo-laptop.jpg) 
+# <p align="center">
+  <img src="/IMAGENES/PC.jpg" alt="Descripción de la imagen" width="600"/>
+</p> 
 # Hola, mi nombre es Jose Manuel Carmona Cáceres.
 
 ## Soy técnico especialista en operaciones de Radio y Televisión, pero mi carrera profesional se desarrolló como operador de telecomunicaciones realizando transmisiones profesionales de Televisión a traves de satelite (DSNG).
 ## META10 en Sevilla, Telefónica Servicios Audiovisuales (TSA) en Madrid, Andalucía Digital Multimedia (ADM) en Sevilla, todas como empleado, y Telefónica Broadcast Service (TBS) y LAVIGNA, como autónomo, son las empresas en las que se puede resumir mi experiencia profesional tras casi 30 años de trayectoria.
 ## En la actualidad me encuentro en situación de desempleo, cursando estudios de Administración de sistemas informáticos en red, con el objetivo de reciclarme para poder retomar el desempeño en el que mas a gusto me siento y para abrirme nuevas puertas en caso de que no sea posible retomar dicha actividad.
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/rmnwFfsj/unidad-dsng-mdst-mo02sd.jpg" alt="unidad-dsng-mdst-mo02sd"/></a>  
+# <p align="center">
+  <img src="/IMAGENES/DSNG.jpg" alt="Descripción de la imagen" width="600"/>
+</p>  
+<br>
 Foto Real DSNG
 </br>
 
